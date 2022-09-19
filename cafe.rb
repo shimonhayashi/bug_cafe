@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-require 'debug' # 例: ここで読み込んでおく
+#require 'debug' # 例: ここで読み込んでおく
 
 DRINKS = [
   { name: 'コーヒー', price: '300' },
